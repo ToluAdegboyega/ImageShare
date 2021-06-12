@@ -70,7 +70,7 @@ export default function App() {
       <TouchableOpacity
        onPress={openImagePickerAsync}
        style={styles.button}>
-       <Text style={styles.buttonText} >Pick a photo</Text>
+       <Text style={styles.buttonText}>Pick a photo</Text>
       </TouchableOpacity>
     </View>
   );
